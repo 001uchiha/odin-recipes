@@ -32,6 +32,10 @@ This project helps build confidence with:
 - Using anchor tags for navigation
 - Adding images and lists
 
+## Live Demo
+
+[Click here to view the live site](https://001uchiha.github.io/odin-recipes/)
+
 ---
 
 Feel free to fork or clone this as a starting point for your own recipe site!
